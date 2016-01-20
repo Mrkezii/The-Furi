@@ -202,13 +202,14 @@ hr{
 .quote{
     background-image: url(assets/bgimages/bg_quote.jpg);
     background-size: 100% 100%;
-    padding-top: 15%;
-        padding-bottom: 15%;
+    padding-top: 10%;
+        padding-bottom: 10%;
     font-size: 1.5em;
     text-transform: uppercase;
     text-align: center;
     font-weight: 500;
     color: white;
+    line-height: 0.8;
 }
 
 
@@ -219,7 +220,10 @@ hr{
 .q-mark{
     font-size: 2em;
 }
-
+.quoter{
+    font-size: 0.7em;
+    
+}
 
 
 
