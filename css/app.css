@@ -5,6 +5,9 @@ body {
   color: #888;
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+body a, h1,h2,h3,h4,h5,h6{
+    font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
 
 
@@ -28,6 +31,30 @@ body {
     margin-right:10%;
 }
 .hero{
-    height: 75%;
-    background-color: aqua;
-}      
+    height: 68%;
+    background-image: url(assets/bgimages/hero_img.jpg);
+    background-size: 100% 100%;
+    color: white;
+    text-align: center;
+} 
+ .slogan{
+    padding-top: 10%;
+}
+
+.hero h2{
+    font-size: 3.5em;
+    line-height: 1.3;
+}
+.hero span{
+    text-transform:uppercase;
+    color: #66ffff;
+}
+.hero h5{
+    font-size: 1.5em;
+}
+.learn{
+    background-color: transparent;
+    border: 2px solid white;
+}
+
+
