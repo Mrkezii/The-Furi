@@ -202,12 +202,23 @@ hr{
 .quote{
     background-image: url(assets/bgimages/bg_quote.jpg);
     background-size: 100% 100%;
+    padding-top: 15%;
+        padding-bottom: 15%;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 500;
+    color: white;
 }
 
 
+.quote span{
+    color:  #66ffff;
+}
 
-
-
+.q-mark{
+    font-size: 2em;
+}
 
 
 
