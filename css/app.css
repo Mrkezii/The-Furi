@@ -67,7 +67,7 @@ h3{
 
 .aboutus{
     height: 70%;
-background-color: aqua;
+background-color: white;
     text-align: center;
     padding-top: 5%;
     padding-left: 10%;
@@ -78,6 +78,13 @@ background-color: aqua;
     font-weight: 500;
 }
 
+.logos{
+    margin-top: 8%;
+}
+.logos img{
+    border-radius: 50%;
+    border:none;
+}
 
 
 
