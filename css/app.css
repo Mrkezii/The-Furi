@@ -283,9 +283,16 @@ hr{
 
 
 /***************************************************KEEP.IN.TOUCH***************************************************/
+.keep-in-touch{
+    height:auto;
+    text-align: center;
+    padding-top: 10%;
+    
+}
 
-
-
+.keep-in-touch h3{
+    margin-bottom: 0;
+}
 
 
 
