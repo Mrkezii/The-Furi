@@ -27,4 +27,7 @@ body {
 .top-bar-right{
     margin-right:10%;
 }
-        
+.hero{
+    height: 75%;
+    background-color: aqua;
+}      
