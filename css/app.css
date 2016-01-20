@@ -1,0 +1,27 @@
+/******************************************************************GENERAL*********************************************************************************/
+
+body {
+  background: #293f50;
+  color: #888;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+
+/***************************************************************HEADER*********************************************************************************/
+
+.headers h3{
+   font-size: 1em;
+    border: 3px solid black;
+    padding: 1% 19%;
+    border-radius: 6px;
+    width: 131%;
+    /* margin: 5% 48%; */
+    margin-left: 164%;
+    text-align: center;
+}
+.top-bar-right a{
+        color: black;
+    margin-right: 10%;
+}
+        
