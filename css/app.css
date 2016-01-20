@@ -22,6 +22,9 @@ body {
 }
 .top-bar-right a{
         color: black;
-    margin-right: 10%;
+    
+}
+.top-bar-right{
+    margin-right:10%;
 }
         
