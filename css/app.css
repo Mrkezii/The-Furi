@@ -138,4 +138,42 @@ hr{
 /**************************************************PRODUCT.CREATION**************************************************************/
 
 
+.product-creation{
+    background-image: url(assets/bgimages/we_are_making_products.jpg);
+    background-size: 100% 100%;
+    height: auto;
+    text-align: center;
+    padding-bottom: 5%;
+   
+    
+}
+
+.product-creation h3{
+    padding-top: 7%;
+    font-weight: 400;
+    color: black;
+    text-align: left;
+    margin-left: 10%;
+    line-height: 1;
+    
+}
+.product-creation a{
+    margin-top: 2%;
+/*    margin-left: -69%;*/
+    background-color: black;
+    margin-right:  70%;
+   
+}
+.product-creation p{
+    color: black;
+    margin-left: 10%;
+    text-align: left;
+    margin-right: 10%;
+}
+
+
+
+
+
+
 
