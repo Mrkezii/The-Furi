@@ -251,7 +251,7 @@ hr{
 }
 
 .explain{
-  bottom: 4.5em;
+  bottom: 5.5em;
     /* margin-top: -68px; */
     height: 4.5em;
     background-color: white;
@@ -261,19 +261,25 @@ hr{
 }
 .people img{
     position: relative;
+     background-color: blue;
+    
 }
 
-.people .thumbnail{
+.portf{
      margin-bottom: 0;
+     background-color: blue;
 }
-
 
 .explain h4{
+    font-weight: 500;
         font-size: 1.5em;
     padding-bottom: 2%;
+    color: black;
 }
 
-
+.team h3{
+    color: black;
+}
 
 
 
