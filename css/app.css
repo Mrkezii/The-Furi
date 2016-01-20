@@ -174,6 +174,42 @@ hr{
 
 
 
+/***********************************************************PRORTFOLIO**************************************************************/
+
+.portfolio{
+    background-color: white;
+    text-align: center;
+   
+}
+.portfolio h3{
+    color: black;
+    text-align: center;
+    padding-top: 5%;
+    margin-bottom: 2%;
+
+}
+.portfolio p{
+     padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
