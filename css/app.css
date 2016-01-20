@@ -1,7 +1,7 @@
 /******************************************************************GENERAL*********************************************************************************/
 
 body {
-  background: #293f50;
+  background: white;
   color: #888;
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -227,6 +227,50 @@ hr{
 
 
 /***********************************************************TEAM**************************************************************/
+.team{
+    background-color: #f2f2f2;
+    padding: 5% 15%;
+    text-align: center;
+    
+}
+.team .people{
+    padding-top: 5%;
+    
+}
+
+.team img{
+    padding-left:0;
+    padding-right:0;
+    border: 0;
+}
+.people .column{
+     padding-left:0;
+    padding-right:0;
+    border: 2px solid #f2f2f2;
+   
+}
+
+.explain{
+  bottom: 4.5em;
+    /* margin-top: -68px; */
+    height: 4.5em;
+    background-color: white;
+    position: relative;
+    padding-top: 5%;
+    line-height: 0.1;
+}
+.people img{
+    position: relative;
+}
+
+.people .thumbnail{
+     margin-bottom: 0;
+}
+
+
+
+
+
 
 
 
